@@ -1,1 +1,1 @@
-mid/README.md
+Computer Vision and Pattern Recognition 
